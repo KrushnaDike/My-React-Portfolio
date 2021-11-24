@@ -1,11 +1,10 @@
 {
   "private": true,
-  "name": "masterPortfolio",
+  "name": "test",
   "homepage": "https://KrushnaDike.github.io/My-React-Portfolio",
   "version": "0.1.0",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -b gh-pages -d build",
+    "deploy": "npm run deploy && gh-pages -d build",
     "build": "react-scripts build",
     "eject": "react-scripts eject",
     "start": "react-scripts start",
