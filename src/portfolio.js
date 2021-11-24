@@ -26,7 +26,7 @@ const seo = {
   og: {
     title: "Krushna Dike Portfolio",
     type: "website",
-    url: "https://krushnadike.com/",
+    url: "https://krushnadike.github.io/My-React-Portfolio/",
   },
 };
 
@@ -496,7 +496,7 @@ const projectsData = {
       name: "My Portfolio",
       description: "The complete portfolio website hosted using github pages (gh-pages). Visit the website here : ",
       createdAt: "2021-11-23",
-      liveUrl: "https://www.krushnadike.com/",
+      liveUrl: "https://krushnadike.github.io/My-React-Portfolio/",
       gitUrl: "https://github.com/KrushnaDike/My-React-Portfolio",
     },
     {
