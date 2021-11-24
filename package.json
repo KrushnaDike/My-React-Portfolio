@@ -4,7 +4,7 @@
   "homepage": "https://KrushnaDike.github.io/My-React-Portfolio",
   "version": "0.1.0",
   "scripts": {
-    "deploy": "npm run deploy && gh-pages -d build",
+    "deploy": "npm run build && gh-pages -d build",
     "build": "react-scripts build",
     "eject": "react-scripts eject",
     "start": "react-scripts start",
